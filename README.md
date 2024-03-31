@@ -18,3 +18,18 @@
 
 
 <img src="./public/toolkit_thunk_translate.gif"/>
+
+📚 Libraries:
+📌 react-router-dom
+
+📌 axios
+
+📌 react-thunk
+
+📌 react-redux
+
+📌 @reduxjs/toolkit
+
+📌 api
+
+
